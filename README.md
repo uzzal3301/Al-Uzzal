@@ -18,5 +18,7 @@ pip2 install requests
 pip2 install mechanize 
 
 git clone https://github.com/uzzal3301/Al-Uzzal
+
 cd Al-uzzal
+
 python2 Al-uzzal.py
